@@ -1,0 +1,82 @@
+h1
+{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+.header h6
+{
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 1.5em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.header
+{
+  background-color: darkgrey;
+  padding: 100px 100px;
+}
+
+.intro 
+{
+  padding: 100px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.intro-list
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 100px;
+  padding-bottom: 100px;
+}
+
+.intro-list li
+{
+  font-size: 1.3em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 100px;
+}
+
+.container
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#slider
+{
+    width: 100%;
+}
+.carousel-caption
+{
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial!important;
+}
+.carousel-caption h5
+{
+    color: #fff;
+    font-size: 42px;
+    text-shadow: 3px 2px black;
+}
+
+.menus
+{
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+
+.canvas
+{
+  padding-top: 50px;
+  padding-left: 100px;
+}
